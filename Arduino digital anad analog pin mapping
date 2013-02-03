@@ -1,0 +1,24 @@
+Arduino digital anad analog pin mapping to 8 position DIP switch and 8 LEDs
+
+Arduino pin         Switch(input)
+----------------------------------
+digital pin 2       D0(LSB)
+digital pin 3       D1
+digital pin 4       D2
+digital pin 5       D3
+digital pin 6       D4
+digital pin 7       D5
+analog  pin A2      D6
+analog  pin A3      D7(MSB)
+
+Arduino pin         LEDs(output)
+----------------------------------
+digital pin 8       D0(LSB)
+digital pin 9       D1
+digital pin 10      D2
+digital pin 11      D3
+digital pin 12      D4
+digital pin 13      D5
+analog  pin A1      D6
+analog  pin A0      D7(MSB)
+
